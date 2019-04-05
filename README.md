@@ -5,3 +5,8 @@ An idea related to garbage management. A special type of dustbin is formed that 
 Company will get profit using the waste received and advertisement using android app. and some part of it will be given in prize money.
 
 This idea got a winning prize in NIT KURUKSHETRA and selected for ventura 2K19
+
+
+![alt text](https://github.com/Keshari0601/GDump/blob/master/Screenshots/Screenshot_1.png)
+![alt text](https://github.com/Keshari0601/GDump/blob/master/Screenshots/Screenshot_2.png)
+![alt text](https://github.com/Keshari0601/GDump/blob/master/Screenshots/Screenshot_3.png)
